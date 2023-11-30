@@ -29,5 +29,4 @@ https://leetcode.com/problems/balanced-binary-tree/solutions/4346948/solution-us
 
 https://leetcode.com/a01620887/
 
-https://drive.google.com/file/d/1Z8TQ_szM5x7DVyvSfz2Ez6lbwoBbV0u9/view?usp=sharing
-
+https://drive.google.com/drive/folders/1f51T8dtxlxCcQ35ip7K4aAIsVe1Mlp-6?usp=sharing
